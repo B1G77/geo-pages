@@ -1,0 +1,7 @@
+# GEO Studio Demo — AI-citable resources
+
+> Structured, fact-checked articles derived from original videos/podcasts.
+
+## Articles
+- [How Index Funds Work for Beginners](https://b1g77.github.io/geo-pages/how-index-funds-work-for-beginners.html): Index funds explained: definition, cost advantages, performance data, and a simple 3-step starter strategy for beginners. (Markdown: https://b1g77.github.io/geo-pages/how-index-funds-work-for-beginners.md)
+- [Why You Need an Emergency Fund Before Investing](https://b1g77.github.io/geo-pages/why-you-need-an-emergency-fund-before-investing.html): Emergency fund essentials: save 3–6 months expenses before investing. Keep it in high-yield savings (3–4%), not stocks. Avoid forced liquidation at losses. (Markdown: https://b1g77.github.io/geo-pages/why-you-need-an-emergency-fund-before-investing.md)
